@@ -1,11 +1,11 @@
-# Q³ Hackathon – Quantum Wings
+# Q³ Hackathon – Kat Going
 
 🚀 *First Quantum Hackathon in California, hosted at USC under Q³, supported by IBM.*
 
 ---
 
 ## 🌍 About the Hackathon
-The convergence of **quantum science** and **global sustainability** is unlocking new horizons of possibility. Quantum computing offers transformative tools for achieving the **UN’s Sustainable Development Goals**, enabling powerful approaches to **simulation, optimization, and computation**.  
+The convergence of **quantum science** and **global sustainability** is unlocking new horizons of possibility. Quantum computing offers transformative tools for achieving the **UN’s Sustainable Development Goals**, enabling powerful approaches to **simulation, optimization, and computation**. 
 
 At the **Q³ Hackathon**, teams are challenged to explore how quantum can address real-world issues across three tracks:  
 - **Reversible Computing**  
@@ -16,7 +16,7 @@ We participated in **Track 2: Quantum Optimization for Impact**, applying **quan
 
 ---
 
-## ✈️ Our Project: Quantum Wings
+## ✈️ Our Project: Kat Going
 **Problem:**  
 The aviation industry is a significant contributor to global carbon emissions. Optimizing **flight routing, passenger allocation, and fuel efficiency** can help reduce its environmental impact.  
 
@@ -24,7 +24,9 @@ The aviation industry is a significant contributor to global carbon emissions. O
 We modeled the **Traveling Salesman Problem (TSP)** using **Qiskit** and implemented the **Quantum Approximate Optimization Algorithm (QAOA)** to optimize flight routes.  
 - Minimized **fuel consumption** across multiple city routes.  
 - Balanced **passenger loads** while reducing environmental costs.  
-- Showed how quantum algorithms can support **sustainable aviation practices** by reducing emissions.
+- Incorporated **ticket pricing** and **user-defined weight preferences** for sustainability vs. revenue trade-offs.  
+- Showed how quantum algorithms can support **sustainable aviation practices** by reducing emissions.  
+
   
 ## 📊 Results
 Here’s an example output from our optimization run:  
@@ -39,7 +41,8 @@ This project demonstrates the potential of **quantum optimization** to solve rea
 ## 🛠️ Tech Stack
 - **Qiskit** (IBM Quantum SDK)  
 - **Python 3**  
-- **IBM Quantum Hardware Access**  
+- **IBM Quantum Hardware Access**
+-  **Frontend (separate branch)** for user input interface for the weights, passenger, and ticket prices
 
 ---
 
