@@ -62,5 +62,5 @@ For an easy setup (especially on Windows), try:
 ### 3. Run Our Code
 Clone this repo and install dependencies:  
 ```bash
-git clone https://github.com/<your-repo>/Q3-Hackathon-Ket-Going.git
+git clone https://github.com/BilinP/Q3-Hackathon-Ket-Going.git
 cd Q3-Hackathon-Ket-Going
