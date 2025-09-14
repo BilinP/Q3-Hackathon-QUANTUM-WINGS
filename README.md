@@ -1,4 +1,4 @@
-# Q³ Hackathon – Kat Going
+# Q³ Hackathon – Ket Going
 
 🚀 *First Quantum Hackathon in California, hosted at USC under Q³, supported by IBM.*
 
@@ -16,7 +16,7 @@ We participated in **Track 2: Quantum Optimization for Impact**, applying **quan
 
 ---
 
-## ✈️ Our Project: Kat Going
+## ✈️ Our Project: Ket Going
 **Problem:**  
 The aviation industry is a significant contributor to global carbon emissions. Optimizing **flight routing, passenger allocation, and fuel efficiency** can help reduce its environmental impact.  
 
@@ -62,6 +62,5 @@ For an easy setup (especially on Windows), try:
 ### 3. Run Our Code
 Clone this repo and install dependencies:  
 ```bash
-git clone https://github.com/<your-repo>/Q3-Hackathon-Quantum-Wings.git
-cd Q3-Hackathon-Quantum-Wings
-pip install -r requirements.txt
+git clone https://github.com/<your-repo>/Q3-Hackathon-Ket-Going.git
+cd Q3-Hackathon-Ket-Going
